@@ -1,10 +1,3 @@
-# -------------------------
-# Project: Deep Q-Learning on Flappy Bird
-# Author: Flood Sung
-# Date: 2016.3.21
-# -------------------------
-
-
 import sys
 #sys.path.append("~/PycharmProjects/FlappyBird/game/")
 import wrapped_flappy_bird as game
